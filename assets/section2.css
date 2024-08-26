@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.sec2 {
+    margin: 5px 5px 50px 5px;
+    padding: 48px;
+    border: solid black 1px;
+    display: block;
+    position: relative;
+    height: 77vh;
+    width: 65vh;
+    left: 30px;
+    background-color: rgb(13, 13, 13);
+    color: rgb(242, 242, 242);
+    font-family: "Poppins", sans-serif;
+}
+
+.diabo-icon {
+    height: 40px;
+    width: 45px;
+}
+
+.sec2 h2 {
+    font-size: 30px;
+    font-style: italic;
+    margin-bottom: 15px;
+    display: flex;
+    gap: 20px;
+}
+
+.sec2:hover {
+    opacity: 0.88;
+}
+
+.sec2 p {
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1.6px;
+}
+
+.sec2 p::selection {
+    /* color: #E63946; */
+    background-color: #E63946;
+}
