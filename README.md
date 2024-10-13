@@ -23,3 +23,7 @@ O projeto é uma página única que usa apenas HTML e CSS para criar um layout b
 
    ```bash
    git clone https://github.com/SEU_USUARIO/basicSinglePage.git
+
+## Visualização
+
+1. Link: https://leonardodgr.github.io/basicSinglePage/
